@@ -1,0 +1,4 @@
+*.log
+*.pid
+*~
+config/icecast.xml
