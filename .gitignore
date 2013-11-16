@@ -2,3 +2,4 @@
 *.pid
 *~
 config/icecast.xml
+node_modules/*
